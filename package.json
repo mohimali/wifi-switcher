@@ -1,0 +1,16 @@
+{
+  "name": "wifi-switcher",
+  "version": "1.0.0",
+  "description": "An ubuntu app which allows you to switch predefined wifi networks from the sys tray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Mohim ALi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
+  
+}
